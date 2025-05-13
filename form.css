@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    color: wheat;
+    background-color: black;
+}
+
+p {
+    color: black;
+    padding: 0;
+    margin: 15px 0 0 0;
+}
+
+form {
+    background-color: gray;
+    border: solid 5px white;
+    width: 500px;
+    margin-left: 33%;
+    text-align: center;
+}
+
+input {
+    background-color: wheat;
+    color: black;
+    border: solid 2px black;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 0;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(83, 11, 11);
+    border: solid 2px black;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}

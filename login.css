@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+.login {
+    margin-left: 100px;
+    width: 10px;
+    font-size: large;
+}
+
+.capa {
+    width: 55%;
+    height: 97vh;
+    min-width: 450px;
+}
+
+.logo {
+    width: 425px;
+    height: 300px;
+}
+
+.cadastro {
+    margin-left: 120px;
+}
+
+input {
+    font-size: large;
+    margin-top: 5px;
+    width: 250px;
+    height: 40px;
+    border: solid 3px black;
+    border-radius: 15px;
+}
+
+.button {
+    font-size: large;
+    width: 260px;
+    height: 45px;
+    border: solid 3px black;
+    border-radius: 15px;
+    margin-left: 100px;
+    color: aliceblue;
+    background-color: rgb(9, 148, 202);
+}
+
+.button:hover {
+    background-color: darkblue;
+    transition: 0.5s;
+}
+
+.container-all {
+    color: aliceblue;
+    display: flex;
+}
+
+#cad {
+    color: aqua;
+    text-decoration: none;
+}
+
+.container-form {
+    color: aliceblue;
+    padding: 30px;
+}
+
+form {
+    margin-top: -80px;
+}
