@@ -27,7 +27,7 @@ input {
     margin: 0;
 }
 
-button {
+.bttn {
     width: 150px;
     height: 30px;
     color: rgb(255, 255, 255);
@@ -35,4 +35,8 @@ button {
     border: solid 2px black;
     border-radius: 15px;
     margin-bottom: 15px;
+}
+
+div {
+    width: 250px;
 }
